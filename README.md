@@ -45,10 +45,9 @@
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragdhiman-696&show_icons=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuragdhiman-696&show_icons=true)
 
-![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdhiman-696&layout=compact)
-
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuragdhiman-696&layout=compact)
 ---
 
 ## Contact

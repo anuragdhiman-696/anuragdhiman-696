@@ -1,4 +1,4 @@
-Hi there! My name is Anurag.
+Hiya all! My name is Anurag.
 Learning to code in C.
 Studying Web Development.
 System level programming.

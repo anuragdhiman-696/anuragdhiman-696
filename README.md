@@ -47,7 +47,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragdhiman-696&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdhiman-696&layout=compact&theme=radical)---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdhiman-696&layout=compact&theme=radical)
 
 ## Contact
 - GitHub Profile: https://github.com/anuragdhiman-696

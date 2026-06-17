@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile%20Views&color=1f6feb&style=flat-square" alt="anuragdhiman-696" />
 </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Object-Oriented Programming (OOP), and advanced Problem Solving**
+- I’m currently learning **Data Structures & Algorithms, Object-Oriented Programming (OOP), and advanced Problem Solving**
 
-- 👨‍💻 All of my projects are available at [github.com/anuragdhiman-696](github.com/anuragdhiman-696)
+- All of my projects are available at [github.com/anuragdhiman-696](github.com/anuragdhiman-696)
 
-- 📫 How to reach me **anuragdhiman696@gmail.com**
+- How to reach me **anuragdhiman696@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anurag Dhiman</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile%20views&color=0e75b6&style=flat" alt="anuragdhiman-696" /> </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile%20Views&color=24292f&style=flat-square" alt="anuragdhiman-696" />
+</p>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Object-Oriented Programming (OOP), and advanced Problem Solving**
 

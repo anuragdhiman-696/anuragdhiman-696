@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anurag Dhiman</h1>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuragdhiman-696&theme=tokyonight" />
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile%20views&color=0e75b6&style=flat" alt="anuragdhiman-696" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragdhiman-696" alt="anuragdhiman-696" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Object-Oriented Programming (OOP), and advanced Problem Solving**
 
@@ -17,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/m/in/anurag-dhiman-81609632b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/m/in/anurag-dhiman-81609632b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/m/in/anurag-dhiman-81609632b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="<a href="https://www.linkedin.com/in/anurag-dhiman-81609632b/" target="blank">" height="30" width="40" /></a>
 <a href="https://instagram.com/_damn.that_anurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_damn.that_anurag" height="30" width="40" /></a>
 </p>
 

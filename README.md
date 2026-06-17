@@ -6,11 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Object-Oriented Programming (OOP), and advanced Problem Solving**
 
-- 👯 I’m looking to collaborate on [Data Analysis or Python open-source projects](https://github.com/anuragdhiman-696/anuragdhiman-696)
-
 - 👨‍💻 All of my projects are available at [github.com/anuragdhiman-696](github.com/anuragdhiman-696)
-
-- 💬 Ask me about **C, C++, Python, Tableau, and Data Analysis**
 
 - 📫 How to reach me **anuragdhiman696@gmail.com**
 

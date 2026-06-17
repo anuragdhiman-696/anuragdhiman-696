@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Dhiman</h1>
+[![trophy](https://github-profile-trophy.vercel.app/?username=anuragdhiman-696&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile%20views&color=0e75b6&style=flat" alt="anuragdhiman-696" /> </p>
 

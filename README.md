@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile%20Views&color=24292f&style=flat-square" alt="anuragdhiman-696" />
+  <img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile%20Views&color=1f6feb&style=flat-square" alt="anuragdhiman-696" />
 </p>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Object-Oriented Programming (OOP), and advanced Problem Solving**

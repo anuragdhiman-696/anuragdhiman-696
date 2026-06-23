@@ -5,16 +5,25 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+# Explicitly grant permissions to write the output to your repo
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Clone the repository contents into the runner
+      - uses: actions/checkout@v4
+
+      # Step 2: Generate the snake animation
       - uses: Platane/snk@v3
         with:
           github_user_name: anuragdhiman-696
           outputs: dist/github-contribution-grid-snake.svg
 
+      # Step 3: Deploy the generated file to the 'output' branch
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

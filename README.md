@@ -65,4 +65,4 @@
 
   ## Contribution Snake
 
-![GitHub Snake](https://github.com/anuragdhiman-696/anuragdhiman-696/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/anuragdhiman-696/anuragdhiman-696/output/github-contribution-grid-snake.svg)

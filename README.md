@@ -52,9 +52,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
-  ## Contribution Snake
 
-![GitHub Snake](https://github.com/anuragdhiman-696/anuragdhiman-696/blob/output/github-contribution-grid-snake.svg)
 </a>
 
 <p align="center">
@@ -64,3 +62,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdhiman-696&theme=tokyonight" alt="anuragdhiman-696" />
 </p>
+
+  ## Contribution Snake
+
+![GitHub Snake](https://github.com/anuragdhiman-696/anuragdhiman-696/blob/output/github-contribution-grid-snake.svg)

@@ -19,7 +19,6 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<img data-importer="image" align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -52,8 +51,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuragdhiman-696&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
-<hr style="height:1px; border:none; background-color:#30363d;" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdhiman-696&theme=tokyonight" alt="anuragdhiman-696" />

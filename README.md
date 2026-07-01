@@ -55,7 +55,7 @@
 
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuragdhiman-696&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=anuragdhiman-696&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" /></p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdhiman-696&theme=tokyonight" alt="anuragdhiman-696" />

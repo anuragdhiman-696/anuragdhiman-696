@@ -53,6 +53,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuragdhiman-696&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+<hr style="height:1px; border:none; background-color:#30363d;" />
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdhiman-696&theme=tokyonight" alt="anuragdhiman-696" />
 </p>

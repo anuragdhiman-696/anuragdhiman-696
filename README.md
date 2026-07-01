@@ -56,6 +56,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdhiman-696&theme=tokyonight" alt="anuragdhiman-696" />
 </p>
 
+---
+
 <h2 align="center">Contribution Snake</h2>
 
 <p align="center">

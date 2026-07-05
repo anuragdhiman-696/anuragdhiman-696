@@ -4,8 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Anurag+Dhiman;Learning+DSA+%26+Object-Oriented+Programming;Building+Projects+One+Commit+at+a+Time"/>
 
-<img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile+Views&color=1f6feb&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile%20Views&color=1f6feb&style=flat-square" alt="anuragdhiman-696" />
 </div>
 
 ---

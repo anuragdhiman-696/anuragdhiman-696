@@ -12,11 +12,11 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/anurag-dhiman-81609632b/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/anurag-dhiman-81609632b/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" align="center" />
   </a>
-  <a href="https://instagram.com/_damn.that_anurag" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_damn.that_anurag" height="30" width="40" />
+  <a href="https://instagram.com/_damn.that_anurag">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_damn.that_anurag" height="30" width="40" align="center" />
   </a>
 </p>
 

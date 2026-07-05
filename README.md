@@ -1,111 +1,71 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Anurag%20Dhiman&fontAlign=50&fontAlignY=38&fontSize=45&desc=Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn"/>
-
-<p><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Anurag+Dhiman;Learning+DSA+%26+Object-Oriented+Programming;Building+Projects+One+Commit+at+a+Time"/></p>
-
-<p><img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile%20Views&color=1f6feb&style=flat-square" alt="anuragdhiman-696" /></p>
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 💻 Exploring **Object-Oriented Programming**
-- 🧩 Solving programming problems daily
-- 📂 All my projects: **https://github.com/anuragdhiman-696**
-- 📫 Reach me: **anuragdhiman696@gmail.com**
-
----
-
-## 🌐 Connect With Me
+<h1 align="center">Hey, I'm Anurag Dhiman</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anurag-dhiman-81609632b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile%20Views&color=1f6feb&style=flat-square" alt="anuragdhiman-696" />
+</p>
 
-<a href="https://www.instagram.com/_damn.thats_anurag" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+- I’m currently learning **Data Structures & Algorithms, Object-Oriented Programming (OOP), and advanced Problem Solving**
+- All of my projects are available at [github.com/anuragdhiman-696](https://github.com/anuragdhiman-696)
+- How to reach me **anuragdhiman696@gmail.com**
 
-<a href="mailto:anuragdhiman696@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
+
+<h2 align="center">Connect with me:</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/anurag-dhiman-81609632b/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" align="center" />
+  </a>
+  <a href="https://www.instagram.com/_damn.thats_anurag">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_damn.that_anurag" height="30" width="40" align="center" />
+  </a>
 </p>
 
 ---
 
-## 💻 Languages & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,git,github,vscode&theme=dark"/>
-
+<h2 align="center">Languages and Tools:</h2>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=anuragdhiman-696&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdhiman-696&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdhiman-696&theme=tokyonight" alt="anuragdhiman-696" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">Contribution Snake</h2>
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anuragdhiman-696&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragdhiman-696/anuragdhiman-696/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragdhiman-696/anuragdhiman-696/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/anuragdhiman-696/anuragdhiman-696/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  </picture>
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragdhiman-696&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragdhiman-696/anuragdhiman-696/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragdhiman-696/anuragdhiman-696/output/github-contribution-grid-snake.svg">
-
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/anuragdhiman-696/anuragdhiman-696/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
-
-</div>

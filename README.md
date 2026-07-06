@@ -58,11 +58,6 @@
 
 </p>
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdhiman-696&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 

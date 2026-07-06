@@ -52,7 +52,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=anuragdhiman-696&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anuragdhiman-696&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anuragdhiman-696&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="170"/>
 </p>
 
 ---

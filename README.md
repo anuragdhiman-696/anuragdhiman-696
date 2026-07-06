@@ -58,15 +58,6 @@
 
 </p>
 
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuragdhiman-696&theme=tokyonight&no-frame=true" />
-</p>
-
 ---
 
 ## Contribution Snake

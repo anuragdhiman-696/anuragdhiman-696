@@ -43,9 +43,7 @@
 ## Languages & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,git,github,vscode&theme=dark"/>
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,react,cs,java,nodejs,mongodb,aws,mysql,git,github,vscode&perline=17&theme=dark"/>
 </p>
 
 ---

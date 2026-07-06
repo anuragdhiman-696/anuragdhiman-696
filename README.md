@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Anurag%20Dhiman&fontAlign=50&fontAlignY=38&fontSize=45&desc=Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn"/>
 
-<p><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Anurag+Dhiman;Learning+DSA+%26+Object-Oriented+Programming;Building+Projects+One+Commit+at+a+Time"/></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Anurag+Dhiman;Learning+DSA+%26+Object-Oriented+Programming;Building+Projects+One+Commit+at+a+Time" alt="Typing SVG" />
+</p>
 
 <p><img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile%20Views&color=1f6feb&style=flat-square" alt="anuragdhiman-696" /></p>
 
@@ -10,17 +12,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 💻 Exploring **Object-Oriented Programming**
-- 🧩 Solving programming problems daily
-- 📂 All my projects: **https://github.com/anuragdhiman-696**
-- 📫 Reach me: **anuragdhiman696@gmail.com**
+-  Currently learning **Data Structures & Algorithms**
+-  Exploring **Object-Oriented Programming**
+-  Solving programming problems daily
+-  All my projects: **https://github.com/anuragdhiman-696**
+-  Reach me: **anuragdhiman696@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/anurag-dhiman-81609632b/" target="_blank">
@@ -38,7 +40,7 @@
 
 ---
 
-## 💻 Languages & Tools
+## Languages & Tools
 
 <p align="center">
 
@@ -48,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -64,7 +66,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
 
@@ -74,7 +76,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 
@@ -84,7 +86,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
 
@@ -104,7 +106,7 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 *"Code. Learn. Build. Repeat."*
 

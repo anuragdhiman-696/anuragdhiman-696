@@ -2,8 +2,8 @@ name: Rotate Typing SVG Color
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 */6 * * *' # Runs automatically every 6 hours
+  workflow_dispatch: # Lets you trigger it manually anytime
 
 jobs:
   rotate-color:
@@ -12,29 +12,35 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Pick Random Color and Generate Timestamp
-        id: picker
+      - name: Pick Random Color and Update README via Python
         run: |
-          # Curated list of distinct shades (Purples, Pinks, Magentas)
-          COLORS=("8A2BE2" "D14DFF" "FF1493" "FF69B4" "7928CA" "DA70D6" "C71585")
-          RANDOM_COLOR=${COLORS[$RANDOM % ${#COLORS[@]}]}
-          TIMESTAMP=$(date +%s)
+          python3 -c "
+          import random, re, time
           
-          echo "SELECTED_COLOR=$RANDOM_COLOR" >> $GITHUB_ENV
-          echo "TIMESTAMP=$TIMESTAMP" >> $GITHUB_ENV
-
-      - name: Update README Color and Cache Buster
-        run: |
-          # 1. Update the 6-digit hex color
-          sed -i -E 's/color=[0-9A-Fa-f]{6}/color=${{ env.SELECTED_COLOR }}/g' README.md
+          # 1. Choose a random vibrant shade
+          colors = ['8A2BE2', 'D14DFF', 'FF1493', 'FF69B4', '7928CA', 'DA70D6', 'C71585', 'E0B0FF']
+          selected_color = random.choice(colors)
+          timestamp = str(int(time.time()))
           
-          # 2. Update the version number to bust GitHub's cache
-          sed -i -E 's/\&v=[0-9]+/\&v=${{ env.TIMESTAMP }}/g' README.md
+          # 2. Read current README
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          
+          # 3. Safely swap out color=XXXXXX and &v=XXXXXX using regex
+          content = re.sub(r'color=[0-9A-Fa-f]{6}', f'color={selected_color}', content)
+          content = re.sub(r'&v=[0-9]+', f'&v={timestamp}', content)
+          
+          # 4. Save the file back
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+              
+          print(f'Successfully updated color to {selected_color} and cache buster to {timestamp}')
+          "
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff-index --quiet HEAD || git commit -m "chore: rotate typing color to #${{ env.SELECTED_COLOR }}"
+          git diff-index --quiet HEAD || git commit -m "chore: break cache and rotate typing color"
           git push

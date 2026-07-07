@@ -1,7 +1,6 @@
 <div align="center">
-
-![Anurag's Gradient Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=FFB6C1,FFFFFF&text=Anurag%20Dhiman&fontAlign=50&fontAlignY=38&fontSize=45&desc=Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn)
-<p align="center">
+  
+![Anurag's Gradient Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=8A2BE2,E0B0FF&text=Anurag%20Dhiman&fontAlign=50&fontAlignY=38&fontSize=45&desc=Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn)
   
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Anurag+Dhiman;Learning+DSA+%26+Object-Oriented+Programming;Building+Projects+One+Commit+at+a+Time" alt="Typing SVG" />
 </p>

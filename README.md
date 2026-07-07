@@ -2,9 +2,9 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Anurag%20Dhiman&fontAlign=50&fontAlignY=38&fontSize=45&desc=Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn"/>
   
-
-<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=D14DFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Anurag+Dhiman;Learning+DSA+%26+Object-Oriented+Programming;Building+Projects+One+Commit+at+a+Time" />
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7928CA&center=true&vCenter=true&width=600&lines=Hey,+I'm+Anurag+Dhiman;Learning+DSA+%26+Object-Oriented+Programming;Building+Projects+One+Commit+at+a+Time" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hey,+I'm+Anurag+Dhiman;Learning+DSA+%26+Object-Oriented+Programming;Building+Projects+One+Commit+at+a+Time" alt="Typing SVG" />
+</p>
 
 
 <p><img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile%20Views&color=1f6feb&style=flat-square" alt="anuragdhiman-696" /></p>

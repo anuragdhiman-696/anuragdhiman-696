@@ -2,8 +2,8 @@ name: Rotate Typing SVG Color
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs automatically every 6 hours
-  workflow_dispatch: # Allows you to manually trigger it anytime
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   rotate-color:
@@ -12,18 +12,24 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Pick Random Color
+      - name: Pick Random Color and Generate Timestamp
         id: picker
         run: |
-          # A list of vibrant purple, pink, and magenta hex codes
+          # Curated list of distinct shades (Purples, Pinks, Magentas)
           COLORS=("8A2BE2" "D14DFF" "FF1493" "FF69B4" "7928CA" "DA70D6" "C71585")
           RANDOM_COLOR=${COLORS[$RANDOM % ${#COLORS[@]}]}
+          TIMESTAMP=$(date +%s)
+          
           echo "SELECTED_COLOR=$RANDOM_COLOR" >> $GITHUB_ENV
+          echo "TIMESTAMP=$TIMESTAMP" >> $GITHUB_ENV
 
-      - name: Update README
+      - name: Update README Color and Cache Buster
         run: |
-          # Dynamically swap out the color code in your README
+          # 1. Update the 6-digit hex color
           sed -i -E 's/color=[0-9A-Fa-f]{6}/color=${{ env.SELECTED_COLOR }}/g' README.md
+          
+          # 2. Update the version number to bust GitHub's cache
+          sed -i -E 's/\&v=[0-9]+/\&v=${{ env.TIMESTAMP }}/g' README.md
 
       - name: Commit and Push Changes
         run: |

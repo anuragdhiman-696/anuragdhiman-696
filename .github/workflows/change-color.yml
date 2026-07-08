@@ -2,7 +2,7 @@ name: Rotate Typing SVG Color
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Every 6 hours
+    - cron: "*/30 * * * *"   # every 30 min (may be delayed by GitHub)
   workflow_dispatch:
 
 permissions:
@@ -11,72 +11,43 @@ permissions:
 jobs:
   rotate-color:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update Typing SVG Color
+      - name: Update color
         run: |
           python3 << 'EOF'
-          import random
-          import re
-          import time
+          import random, re, time
 
-          colors = [
-              "8A2BE2",
-              "D14DFF",
-              "FF1493",
-              "FF69B4",
-              "7928CA",
-              "DA70D6",
-              "C71585",
-              "E0B0FF"
-          ]
+          colors = ["8A2BE2","D14DFF","FF1493","FF69B4","7928CA","DA70D6","C71585","E0B0FF"]
 
-          with open("README.md", "r", encoding="utf-8") as f:
+          with open("README.md", encoding="utf-8") as f:
               content = f.read()
 
-          # Current color
-          match = re.search(r"color=([0-9A-Fa-f]{6})", content)
-          current_color = match.group(1) if match else None
+          m = re.search(r"color=([0-9A-Fa-f]{6})", content)
+          current = m.group(1) if m else None
+          new = random.choice([c for c in colors if c != current])
 
-          # Never pick the same color twice
-          available = [c for c in colors if c != current_color]
-          new_color = random.choice(available)
+          content = re.sub(r"color=[0-9A-Fa-f]{6}", f"color={new}", content)
 
-          # Cache buster
-          timestamp = str(int(time.time()))
-
-          content = re.sub(
-              r"color=[0-9A-Fa-f]{6}",
-              f"color={new_color}",
-              content
-          )
-
-          content = re.sub(
-              r"v=\d+",
-              f"v={timestamp}",
-              content
-          )
+          # ensure a v= param exists; add one if missing
+          if re.search(r"v=\d+", content):
+              content = re.sub(r"v=\d+", f"v={int(time.time())}", content)
+          else:
+              content = content.replace("alt=\"Typing SVG\"",
+                                        f"&v={int(time.time())}\" alt=\"Typing SVG\"")
 
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(content)
-
-          print(f"Changed {current_color} → {new_color}")
+          print(f"{current} -> {new}")
           EOF
 
-      - name: Commit Changes
+      - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add README.md
-
-          if git diff --cached --quiet; then
-            echo "No changes."
-            exit 0
-          fi
-
+          git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "🎨 Rotate typing SVG color"
           git push

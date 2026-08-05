@@ -55,23 +55,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anuragdhiman-696&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="170"/>
 </p>
 
----
-
-## Contribution Snake
-
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragdhiman-696/anuragdhiman-696/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragdhiman-696/anuragdhiman-696/output/github-contribution-grid-snake.svg">
-
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/anuragdhiman-696/anuragdhiman-696/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</p>
 
 ---
 

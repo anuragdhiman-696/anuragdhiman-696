@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Anurag%20Dhiman&fontAlign=50&fontAlignY=38&fontSize=45&desc=Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn"/>
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=D14DFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Anurag+Dhiman;Learning+DSA+%26+Object-Oriented+Programming;Building+Projects+One+Commit+at+a+Time" &v=1788248611" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=E0B0FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Anurag+Dhiman;Learning+DSA+%26+Object-Oriented+Programming;Building+Projects+One+Commit+at+a+Time" &v=1788269000" alt="Typing SVG" />
 </p>
 
-<p><img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile%20Views&color=D14DFF&style=flat-square" alt="anuragdhiman-696" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=anuragdhiman-696&label=Profile%20Views&color=E0B0FF&style=flat-square" alt="anuragdhiman-696" /></p>
 
 </div>
 
